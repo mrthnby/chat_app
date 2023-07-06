@@ -28,9 +28,9 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-Flutter SDK
-Firebase Project for authenticationentication, user profiles, messaging, and image upload 
-Android Studio (for Android development) or Xcode (for iOS development)
+- Flutter SDK
+- Firebase Project for authenticationentication, user profiles, messaging, and image upload 
+- Android Studio (for Android development) or Xcode (for iOS development)
 
 ### Installing
 
