@@ -1,4 +1,4 @@
-Chat App with Flutter
+# Chat App with Flutter
 
 This is a simple chat application built with Flutter. It allows users to send and receive messages in real-time.
 
