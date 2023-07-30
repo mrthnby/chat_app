@@ -4,7 +4,7 @@ This is a simple chat application built with Flutter. It allows users to send an
 
 ## Features
 
-- `User registration:` Users can create a new account and log in with their existing credentials or use Google Accounts.
+- `User registration:` Users can create a new account and log in with their existing credentials, or they can use Google Accounts.
 - `User profiles:` Users can set up their profiles, including profile pictures.
 - `Real-time messaging:` Users can send and receive messages instantly.
 - `Notifications:` Users receive notifications for new messages and chat invitations.
@@ -29,7 +29,7 @@ These instructions will get you a copy of the project up and running on your loc
 ### Prerequisites
 
 - Flutter SDK
-- Firebase Project for authenticationentication, user profiles, messaging, and image upload 
+- Firebase Project for authentication, user profiles, messaging, and image upload 
 - Android Studio (for Android development) or Xcode (for iOS development)
 
 ### Installing
